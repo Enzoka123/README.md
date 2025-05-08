@@ -36,9 +36,9 @@
 <p>Meu nome é Enzo e sempre gostei de tecnologia. Desde a adolescência, eu já mexia nos computadores de casa, por que eu já era curioso em entender como tudo funcionava e tudo mais, e foi por isso que decidi fazer faculdade na área. Em junho de 2023, comecei a trabalhar com TI, onde atuo até hoje como técnico de TI. Desde então eu gosto de analisar problemas e "quebrar a cabeça" para encontrar soluções.
 Atualmente, estou no quinto semestre de Sistemas de Informação, e durante o curso, me interessei bastante por desenvolvimento web e ciência de dados, que foram áreas que eu mais me identifiquei, por aprender como os sites funcionam e por eu ter facilidade pra trabalhar com matemática.
 Hoje moro em Osasco-SP e, apesar da rotina agitada, me dedico bastante aos estudos e aos trabalhos da faculdade. Tenho focado em aprender React, além de já ter estudado HTML, CSS, JavaScript e outras ferramentas. Gosto de sempre usar lógica e criatividade para criar soluções que fazem a diferença<p>
+  
 ## Formação
 
-- Estudando desenvolvimento FullStack - Vem Ser Dev
 - Cursando Sistemas de informação - IMPACTA
 </br>
 
