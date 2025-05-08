@@ -1,4 +1,4 @@
-## Oi, eu sou O Guilherme Junque
+## Olá
 <div align="center">
   <a href="https://github.com/Enzoka123">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Enzoka123&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
